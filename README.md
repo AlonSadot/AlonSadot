@@ -1,16 +1,14 @@
-## Hi there 👋
+# Alon Sadot
 
-<!--
-**AlonSadot/AlonSadot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in Systems and Software Engineering, working on machine learning for microscopy and computational biology.
 
-Here are some ideas to get you started:
+My research combines computer vision, graph-based modeling, and large-scale 3D microscopy data. I build pipelines for image preprocessing, segmentation, cell-contact graph construction, feature extraction, and temporal prediction from embryo imaging data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pinned repositories below include cleaned-up research code and workflows from my master's, including custom Cellpose membrane segmentation and graph neural network models for embryo graph analysis.
+
+Main areas:
+- Machine learning and deep learning
+- Computer vision for microscopy
+- Graph neural networks and graph-based analysis
+- Computational biology
+- Python research pipelines
